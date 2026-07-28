@@ -1,4 +1,5 @@
 ## Hi there 👋
+my name is veer and I am a security researcher and bug bounty hunter 
 
 <!--
 **B5970/B5970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
