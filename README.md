@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>I'm currently pursuing my BCA (Bachelor of Computer Applications), and alongside that, I'm an independent security researcher and bug bounty hunter.<br><br>👯 I'm looking to collaborate on<br>Projects related to bug bounty hunting and security research.<br><br>🤝 I'm looking for help with<br>Guidance on growing further in security research and bug hunting.<br><br>🌱 I'm currently learning<br>Web application security and bug hunting techniques.<br><br>💬 Ask me about<br>Bug bounty hunting and security research.<br><br>⚡ Fun fact<br>I'm a student and an active bug bounty hunter at the same time.
+🔭 <br>I'm currently pursuing my BCA (Bachelor of Computer Applications), and alongside that, I'm an independent security researcher and bug bounty hunter.<br><br>👯 I'm looking to collaborate on<br>Projects related to bug bounty hunting and security research.<br><br>🤝 I'm looking for help with<br>Guidance on growing further in security research and bug hunting.<br><br>🌱 I'm currently learning<br>Web application security and bug hunting techniques.<br><br>💬 Ask me about<br>Bug bounty hunting and security research.<br><br>⚡ Fun fact<br>I'm a student and an active bug bounty hunter at the same time.
 
 
 ## 🌐 Socials:
